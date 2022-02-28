@@ -30,7 +30,7 @@ body,
 }
 .scroll-style::-webkit-scrollbar-thumb {
   width: 2px;
-  background: #16def1;
+  background: #0099FF;
 }
 /* 2:   Primary color */
 /* ---------------------------------------------- */
@@ -47,7 +47,7 @@ a:focus,
 .services-item i,
 .client-info h4,
 blockquote {
-  color: #16def1;
+  color: #ffaa00;
   /* Primary color */
 }
 .pace .pace-progress,
@@ -64,7 +64,7 @@ blockquote {
 .scroll-top a:link,
 .scroll-top a:visited,
 .modal .modal-back a {
-  background: #16def1;
+  background: #0099FF;
   /* Primary color */
 }
 /*��������*/
@@ -72,23 +72,23 @@ blockquote {
   background: #fff;
 }
 .our-clients h2 {
-  color: #16def1;
+  color: #0099FF;
 }
 .recent-project h4.title {
-  border-left: solid 5px #16def1;
+  border-left: solid 5px #0099FF;
 }
 .recent-project .title-second li {
-  color: #16def1;
+  color: #0099FF;
 }
 .services-item:before {
-  border-bottom-color: #16def1;
+  border-bottom-color: #0099FF;
   /* Primary color */
-  border-left-color: #16def1;
+  border-left-color: #0099FF;
   /* Primary color */
 }
 .modal .close:before {
-  border-bottom-color: #16def1;
-  border-left-color: #16def1;
+  border-bottom-color: #0099FF;
+  border-left-color: #0099FF;
   /* Primary color */
 }
 .nav .button {
@@ -101,13 +101,13 @@ blockquote {
 .scroll-top a:visited,
 .modal .modal-back a,
 blockquote {
-  border-color: #16def1;
+  border-color: #0099FF;
   /* Primary color */
 }
 .testimonials p.speech:before {
-  border-top-color: #16def1;
+  border-top-color: #0099FF;
   /* Primary color */
-  border-left-color: #16def1;
+  border-left-color: #0099FF;
   /* Primary color */
 }
 /* 3:   Hover color - Lighter or darker shade of Primary color for hover */
@@ -118,13 +118,13 @@ blockquote {
 .btn-overcolor:focus,
 .scroll-top a:hover,
 .modal .modal-back a:hover {
-  border: 1px solid #16def1;
+  border: 1px solid #0099FF;
   /* Hover color */
-  background: #16def1;
+  background: #0099FF;
   /* Hover color */
 }
 .full-project:hover {
-  background: #16def1;
+  background: #0099FF;
   /* Hover color */
 }
 .btn-overcolor:hover {
@@ -142,12 +142,12 @@ blockquote {
 .table.table-bordered td.p10:active,
 .table.table-bordered td.p05:hover,
 .table.table-bordered td.p05:active {
-  background: #16def1;
+  background: #0099FF;
   color: #fff;
 }
 /*news*/
 .news-content li[data-content]:hover {
-  color: #16def1;
+  color: #0099FF;
 }
 /* 4:   Secondary color */
 /* ---------------------------------------------- */
@@ -180,7 +180,7 @@ blockquote {
 .carousel-control.right:hover,
 .team-member figure:hover figcaption,
 .services-item:hover {
-  background-color: rgba(22, 222, 241, 1.0);
+  background-color: rgba(0, 153, 255, 1.0);
   /* RGBA of Primary color - opacity .9 */
 }
 .navbar-custom.top-nav-collapse {
@@ -188,19 +188,19 @@ blockquote {
 }
 #cd-zoom-in,
 #cd-zoom-out {
-  background-color: rgba(22, 222, 241, 1.0);
+  background-color: rgba(0, 153, 255, 1.0);
   /* RGBA of Primary color - opacity .9 */
 }
 /* Modal
 */
 .modal-container .line-left {
-  border-color: #16def1;
+  border-color: #0099FF;
 }
 .modal-services-content a {
-  color: #16def1;
+  color: #0099FF;
 }
 .modal-services-content a:hover {
-  color: #16def1;
+  color: #0099FF;
 }
 /* 7:   Dark color/Footer color */
 /* ---------------------------------------------- */
@@ -213,22 +213,22 @@ footer .copynote {
   /*rgba(45,45,55, .97); Dark color/Footer color */
 }
 footer .row ul li a:hover {
-  color: #16def1;
+  color: #0099FF;
 }
 footer .btn-lang.active {
-  color: #16def1;
+  color: #0099FF;
 }
 /* 8:   Text selection color */
 /* ---------------------------------------------- */
 ::-moz-selection {
-  background: rgba(22, 222, 241, 1.0);
+  background: rgba(0, 153, 255, 1.0);
   /* RGBA of Primary color - opacity .7 */
 }
 ::selection {
-  background: rgba(22, 222, 241, 1.0);
+  background: rgba(0, 153, 255, 1.0);
   /* RGBA of Primary color - opacity .7 */
 }
 body {
-  webkit-tap-highlight-color: rgba(22, 222, 241, 1.0);
+  webkit-tap-highlight-color: rgba(0, 153, 255, 1.0);
   /* RGBA of Primary color - opacity .7 */
 }
